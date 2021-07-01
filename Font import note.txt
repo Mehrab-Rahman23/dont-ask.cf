@@ -1,0 +1,4 @@
+Open sans [Index, style.css(h1)]: <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet" type="text/css">
+
+
+Benne [Index, style.css(p)]: <link href="https://fonts.googleapis.com/css2?family=Benne&family=Open+Sans:wght@300&display=swap" rel="stylesheet" type="text/css"><!--Benne-->

@@ -1,0 +1,14 @@
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet" type="text/css"> <!--Font-name: Open Sans-->
+<link href="https://fonts.googleapis.com/css2?family=Benne&family=Open+Sans:wght@300&display=swap" rel="stylesheet" type="text/css"><!--Benne-->
+
+h1 {
+	font-family: Open Sans, sans-serif;
+	font-style: 40px;
+	color: black;
+}
+
+p {
+	font-family: Benne;
+	font-size: 20px;
+	color: black;
+}
